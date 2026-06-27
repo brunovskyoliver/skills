@@ -1,0 +1,11 @@
+{
+  "name": "brunovskyoliver",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Personal agent skill bundle for the skills CLI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunovskyoliver/skills.git"
+  }
+}
+
